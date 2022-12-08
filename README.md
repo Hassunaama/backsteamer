@@ -20,4 +20,4 @@ You can now launch the game from the executable (completely offline), or from Ba
 Not available yet.
 
 ## Licensing / Terms of Use
-See [ToU.md](ToU.md) file.
+See the [LICENSE.md](LICENSE.md) and [ToU.md](ToU.md) files.
