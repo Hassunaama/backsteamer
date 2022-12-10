@@ -1,3 +1,6 @@
+# ⚠️ INFORMATION
+## This project is no longer maintained. All pull requests helping the project will be accepted.
+
 # Backsteamer
 An tool that allows Steam games to boot from the executable without the Steam API
 
