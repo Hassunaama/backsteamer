@@ -15,7 +15,7 @@ When you run the program, it checks for the Steam application path, and asks you
 After that, if you see no errors, and it goes to the Library view, then Hooray!
 You have successfully installed Backsteamer! You can now uninstall Steam if you want.
 
-You can now launch any game from the executable (completely offline), or from Backsteamer (Steam mode (online[*](online.md)))
+Now you can launch any game from the Backsteamer ([Online setup guide](online.md))
 
 ### Mac OS
 Not available yet.
